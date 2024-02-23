@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SethDenny
 - 👀 I’m interested in Web Development, Data Analysis, and Game Development
-- 🌱 I’m currently learning the MERN stack.
-- 💞️ I’m looking to collaborate on Web Development
+- 🌱 I’m currently diving into the basics of Machine Learning, and the MERN stack for web development.
 - 📫 How to reach me: sethdenny02@gmail.com
 
 <!---
